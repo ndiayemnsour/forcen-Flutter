@@ -17,8 +17,6 @@ Application pour le programme FORCE-N de l'Université Numérique Cheikh Hamidou
 
 ## 📱 Captures d'écran
 
-Ajoute ici des images de ton application :
-
 ![Capture d'écran 1](chemin/vers/image1.png)
 ![Capture d'écran 2](chemin/vers/image2.png)
 
