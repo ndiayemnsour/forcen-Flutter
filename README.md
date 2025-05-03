@@ -2,15 +2,42 @@
 
 Application pour le programme FORCE-N de l'Université Numérique Cheikh Hamidou Kane
 
-## Getting Started
+## 🔥 Technologies utilisées
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Firebase (Firestore, Auth, Storage...)
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fonctionnalités
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Afficher les certifications disponible
+- ✅ voir details certification
+- ✅ postuler pour une certification de votre choix 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📱 Captures d'écran
+
+Ajoute ici des images de ton application :
+
+![Capture d'écran 1](chemin/vers/image1.png)
+![Capture d'écran 2](chemin/vers/image2.png)
+
+## 🚀 Installation
+
+Clone le dépôt et exécute l’application :
+
+```bash
+git clone https://github.com/ndiayemnsour/forcen-Flutter.git
+cd forcen
+flutter pub get
+```
+### Configure Firebase :
+Crée un projet Firebase sur console.firebase.google.com
+Ajoute ton application (Android/iOS/Web)
+Télécharge les fichiers de configuration :
+google-services.json (Android) → dans android/app/
+GoogleService-Info.plist (iOS) → dans ios/Runner/
+
+```bash
+flutter run
+```
