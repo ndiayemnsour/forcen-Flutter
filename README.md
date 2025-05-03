@@ -33,11 +33,12 @@ flutter pub get
 ```
 ### Configure Firebase :
 Crée un projet Firebase sur console.firebase.google.com
-Ajoute ton application (Android/iOS/Web)
-Télécharge les fichiers de configuration :
-google-services.json (Android) → dans android/app/
-GoogleService-Info.plist (iOS) → dans ios/Runner/
+- Ajoute ton application (Android/iOS/Web)
+- Télécharge les fichiers de configuration :
+  - google-services.json (Android) → dans android/app/
+  - GoogleService-Info.plist (iOS) → dans ios/Runner/
 
+### Lancer votre projet
 ```bash
 flutter run
 ```
