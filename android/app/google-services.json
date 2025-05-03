@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999199157459",
+    "project_id": "forcen-6e2cb",
+    "storage_bucket": "forcen-6e2cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999199157459:android:24f7abf7e058a6e0ccb826",
+        "android_client_info": {
+          "package_name": "sn.forcen.forcen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcdUI2crXKJuWkrafMgxfK_yXE9CXJOKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
